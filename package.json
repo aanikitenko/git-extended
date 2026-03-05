@@ -1,0 +1,19 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "repository": "git@github.com:aanikitenko/git-extended.git",
+  "author": "Your Name <your.email@gmail.com>",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.3.1",
+    "conventional-changelog-cli": "^5.0.0",
+    "standard-changelog": "^7.0.1"
+  }
+}
