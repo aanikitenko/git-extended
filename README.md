@@ -1,1 +1,1 @@
-# git-extended
+# Git Extended Project
